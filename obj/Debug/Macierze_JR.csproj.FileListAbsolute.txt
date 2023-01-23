@@ -1,0 +1,11 @@
+D:\Programowanie\Macierze_JR\bin\Debug\Macierze_JR.exe.config
+D:\Programowanie\Macierze_JR\bin\Debug\Macierze_JR.exe
+D:\Programowanie\Macierze_JR\bin\Debug\Macierze_JR.pdb
+D:\Programowanie\Macierze_JR\obj\Debug\Macierze_JR.csprojAssemblyReference.cache
+D:\Programowanie\Macierze_JR\obj\Debug\Macierze_JR.Form1.resources
+D:\Programowanie\Macierze_JR\obj\Debug\Macierze_JR.Properties.Resources.resources
+D:\Programowanie\Macierze_JR\obj\Debug\Macierze_JR.csproj.GenerateResource.cache
+D:\Programowanie\Macierze_JR\obj\Debug\Macierze_JR.csproj.CoreCompileInputs.cache
+D:\Programowanie\Macierze_JR\obj\Debug\Macierze_JR.exe
+D:\Programowanie\Macierze_JR\obj\Debug\Macierze_JR.pdb
+D:\Programowanie\Macierze_JR\obj\Debug\Macierze_JR.Pytanie.resources

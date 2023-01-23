@@ -1,0 +1,117 @@
+D:\Programowanie\Macierze_JR\obj\Debug\Interpolacja Lagrange.csprojAssemblyReference.cache
+D:\Programowanie\Macierze_JR\obj\Debug\Macierze_JR.Dane.resources
+D:\Programowanie\Macierze_JR\obj\Debug\Macierze_JR.Properties.Resources.resources
+D:\Programowanie\Macierze_JR\obj\Debug\Macierze_JR.Pytanie.resources
+D:\Programowanie\Macierze_JR\obj\Debug\Interpolacja Lagrange.csproj.GenerateResource.cache
+D:\Programowanie\Macierze_JR\obj\Debug\Interpolacja Lagrange.csproj.CoreCompileInputs.cache
+D:\Programowanie\Macierze_JR\obj\Debug\Macierze_JR.exe
+D:\Programowanie\Macierze_JR\obj\Debug\Macierze_JR.pdb
+D:\Programowanie\Macierze_JR\obj\Debug\Macierze_JR.Autorzy.resources
+D:\Programowanie\Macierze_JR\bin\Debug\Macierze_JR.exe.config
+D:\Programowanie\Macierze_JR\bin\Debug\Macierze_JR.exe
+D:\Programowanie\Macierze_JR\bin\Debug\Macierze_JR.pdb
+C:\Users\Asus\Desktop\Nowy folder\PROJEKT\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Nowy folder\PROJEKT\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\Nowy folder\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.Autorzy.resources
+C:\Users\Asus\Desktop\Nowy folder\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.Dane.resources
+C:\Users\Asus\Desktop\Nowy folder\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.Properties.Resources.resources
+C:\Users\Asus\Desktop\Nowy folder\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.Pytanie.resources
+C:\Users\Asus\Desktop\Nowy folder\PROJEKT\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Nowy folder\PROJEKT\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Nowy folder\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.pdb
+C:\Users\Asus\Desktop\Nowy folder\PROJEKT\Interpolacja Lagrange\bin\Debug\Macierze_JR.exe.config
+C:\Users\Asus\Desktop\Nowy folder\PROJEKT\Interpolacja Lagrange\bin\Debug\Macierze_JR.exe
+C:\Users\Asus\Desktop\Nowy folder\PROJEKT\Interpolacja Lagrange\bin\Debug\Macierze_JR.pdb
+C:\Users\Asus\Desktop\Nowy folder\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.exe
+C:\Users\Asus\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\bin\Debug\Macierze_JR.exe.config
+C:\Users\Asus\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\bin\Debug\Macierze_JR.exe
+C:\Users\Asus\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\bin\Debug\Macierze_JR.pdb
+C:\Users\Asus\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.Autorzy.resources
+C:\Users\Asus\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.Dane.resources
+C:\Users\Asus\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.Properties.Resources.resources
+C:\Users\Asus\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.Pytanie.resources
+C:\Users\Asus\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.exe
+C:\Users\Asus\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.pdb
+C:\Users\Asus\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.Wykres.resources
+C:\Users\oem.oem-Komputer\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\bin\Debug\Macierze_JR.exe.config
+C:\Users\oem.oem-Komputer\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\bin\Debug\Macierze_JR.exe
+C:\Users\oem.oem-Komputer\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\bin\Debug\Macierze_JR.pdb
+C:\Users\oem.oem-Komputer\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csprojAssemblyReference.cache
+C:\Users\oem.oem-Komputer\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.Autorzy.resources
+C:\Users\oem.oem-Komputer\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.Dane.resources
+C:\Users\oem.oem-Komputer\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.Properties.Resources.resources
+C:\Users\oem.oem-Komputer\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.Pytanie.resources
+C:\Users\oem.oem-Komputer\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.Wykres.resources
+C:\Users\oem.oem-Komputer\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.GenerateResource.cache
+C:\Users\oem.oem-Komputer\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.CoreCompileInputs.cache
+C:\Users\oem.oem-Komputer\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.exe
+C:\Users\oem.oem-Komputer\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Macierze_JR.pdb
+C:\Users\oem.oem-Komputer\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\oem.oem-Komputer\Desktop\LAGRANGE_aktualny\PROJEKT\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.CopyComplete
+C:\Users\student\Downloads\Interpolacja Lagrange\bin\Debug\Macierze_JR.exe.config
+C:\Users\student\Downloads\Interpolacja Lagrange\bin\Debug\Macierze_JR.exe
+C:\Users\student\Downloads\Interpolacja Lagrange\bin\Debug\Macierze_JR.pdb
+C:\Users\student\Downloads\Interpolacja Lagrange\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\student\Downloads\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\Interpolacja Lagrange\obj\Debug\Macierze_JR.Autorzy.resources
+C:\Users\student\Downloads\Interpolacja Lagrange\obj\Debug\Macierze_JR.Dane.resources
+C:\Users\student\Downloads\Interpolacja Lagrange\obj\Debug\Macierze_JR.Properties.Resources.resources
+C:\Users\student\Downloads\Interpolacja Lagrange\obj\Debug\Macierze_JR.Pytanie.resources
+C:\Users\student\Downloads\Interpolacja Lagrange\obj\Debug\Macierze_JR.Wykres.resources
+C:\Users\student\Downloads\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.GenerateResource.cache
+C:\Users\student\Downloads\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.CopyComplete
+C:\Users\student\Downloads\Interpolacja Lagrange\obj\Debug\Macierze_JR.exe
+C:\Users\student\Downloads\Interpolacja Lagrange\obj\Debug\Macierze_JR.pdb
+D:\Interpolacja Lagrange\bin\Debug\Macierze_JR.exe.config
+D:\Interpolacja Lagrange\bin\Debug\Macierze_JR.exe
+D:\Interpolacja Lagrange\bin\Debug\Macierze_JR.pdb
+D:\Interpolacja Lagrange\bin\Debug\MathParser.org-mXparser.dll
+D:\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.AssemblyReference.cache
+D:\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.SuggestedBindingRedirects.cache
+D:\Interpolacja Lagrange\obj\Debug\Macierze_JR.Autorzy.resources
+D:\Interpolacja Lagrange\obj\Debug\Macierze_JR.Dane.resources
+D:\Interpolacja Lagrange\obj\Debug\Macierze_JR.Properties.Resources.resources
+D:\Interpolacja Lagrange\obj\Debug\Macierze_JR.Pytanie.resources
+D:\Interpolacja Lagrange\obj\Debug\Macierze_JR.Wykres.resources
+D:\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.GenerateResource.cache
+D:\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.CoreCompileInputs.cache
+D:\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.CopyComplete
+D:\Interpolacja Lagrange\obj\Debug\Macierze_JR.exe
+D:\Interpolacja Lagrange\obj\Debug\Macierze_JR.pdb
+C:\Users\Asus\Desktop\PREZENTACJA\Interpolacja Lagrange\bin\Debug\Macierze_JR.exe.config
+C:\Users\Asus\Desktop\PREZENTACJA\Interpolacja Lagrange\bin\Debug\Macierze_JR.exe
+C:\Users\Asus\Desktop\PREZENTACJA\Interpolacja Lagrange\bin\Debug\Macierze_JR.pdb
+C:\Users\Asus\Desktop\PREZENTACJA\Interpolacja Lagrange\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\Asus\Desktop\PREZENTACJA\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\PREZENTACJA\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\PREZENTACJA\Interpolacja Lagrange\obj\Debug\Macierze_JR.Autorzy.resources
+C:\Users\Asus\Desktop\PREZENTACJA\Interpolacja Lagrange\obj\Debug\Macierze_JR.Dane.resources
+C:\Users\Asus\Desktop\PREZENTACJA\Interpolacja Lagrange\obj\Debug\Macierze_JR.Properties.Resources.resources
+C:\Users\Asus\Desktop\PREZENTACJA\Interpolacja Lagrange\obj\Debug\Macierze_JR.Pytanie.resources
+C:\Users\Asus\Desktop\PREZENTACJA\Interpolacja Lagrange\obj\Debug\Macierze_JR.Wykres.resources
+C:\Users\Asus\Desktop\PREZENTACJA\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\PREZENTACJA\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PREZENTACJA\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.CopyComplete
+C:\Users\Asus\Desktop\PREZENTACJA\Interpolacja Lagrange\obj\Debug\Macierze_JR.exe
+C:\Users\Asus\Desktop\PREZENTACJA\Interpolacja Lagrange\obj\Debug\Macierze_JR.pdb
+C:\Users\48660\Downloads\Interpolacja-Lagrange(1)\Interpolacja Lagrange\bin\Debug\Macierze_JR.exe.config
+C:\Users\48660\Downloads\Interpolacja-Lagrange(1)\Interpolacja Lagrange\bin\Debug\Macierze_JR.exe
+C:\Users\48660\Downloads\Interpolacja-Lagrange(1)\Interpolacja Lagrange\bin\Debug\Macierze_JR.pdb
+C:\Users\48660\Downloads\Interpolacja-Lagrange(1)\Interpolacja Lagrange\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\48660\Downloads\Interpolacja-Lagrange(1)\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.AssemblyReference.cache
+C:\Users\48660\Downloads\Interpolacja-Lagrange(1)\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.SuggestedBindingRedirects.cache
+C:\Users\48660\Downloads\Interpolacja-Lagrange(1)\Interpolacja Lagrange\obj\Debug\Macierze_JR.Autorzy.resources
+C:\Users\48660\Downloads\Interpolacja-Lagrange(1)\Interpolacja Lagrange\obj\Debug\Macierze_JR.Dane.resources
+C:\Users\48660\Downloads\Interpolacja-Lagrange(1)\Interpolacja Lagrange\obj\Debug\Macierze_JR.Properties.Resources.resources
+C:\Users\48660\Downloads\Interpolacja-Lagrange(1)\Interpolacja Lagrange\obj\Debug\Macierze_JR.Pytanie.resources
+C:\Users\48660\Downloads\Interpolacja-Lagrange(1)\Interpolacja Lagrange\obj\Debug\Macierze_JR.Wykres.resources
+C:\Users\48660\Downloads\Interpolacja-Lagrange(1)\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.GenerateResource.cache
+C:\Users\48660\Downloads\Interpolacja-Lagrange(1)\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.CoreCompileInputs.cache
+C:\Users\48660\Downloads\Interpolacja-Lagrange(1)\Interpolacja Lagrange\obj\Debug\Interpolacja Lagrange.csproj.CopyComplete
+C:\Users\48660\Downloads\Interpolacja-Lagrange(1)\Interpolacja Lagrange\obj\Debug\Macierze_JR.exe
+C:\Users\48660\Downloads\Interpolacja-Lagrange(1)\Interpolacja Lagrange\obj\Debug\Macierze_JR.pdb
